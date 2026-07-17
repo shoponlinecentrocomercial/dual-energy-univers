@@ -26,8 +26,8 @@ Haz clic en el botón de arriba para lanzar el entorno interactivo en la nube (n
 
 ## 🧑‍💻 Autores
 
-- [Tu nombre] - Conceptualización y desarrollo.
-- [Colaborador] - Simulaciones y calibración.
+- José Costa - Conceptualización y desarrollo.
+- D. DeWitt - Simulaciones y calibración.
 
 ## 📄 Licencia
 
