@@ -1,6 +1,6 @@
 # 🌌 Dual Energy Universe: Simulación de Red Cosmológica
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TU_USUARIO/TU_REPOSITORIO/HEAD?labpath=simulacion.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shoponlinecentrocomercial/dual-energy-univers/HEAD?urlpath=%2Fdoc%2Ftree%2Fsimulacion.ipynb)
 
 Simulación numérica del modelo cosmológico **"Universo de Energía Dual"**, donde el universo es una red de vórtices de energía que conecta materia y antimateria. El modelo predice la constante de Hubble (H₀ ≈ 70 km/s/Mpc) con un solo parámetro ajustable.
 
@@ -26,8 +26,8 @@ Haz clic en el botón de arriba para lanzar el entorno interactivo en la nube (n
 
 ## 🧑‍💻 Autores
 
-- [Tu nombre] - Conceptualización y desarrollo.
-- [Colaborador] - Simulaciones y calibración.
+- José Costa - Conceptualización y desarrollo.
+- D. DeWitt - Simulaciones y calibración.
 
 ## 📄 Licencia
 
